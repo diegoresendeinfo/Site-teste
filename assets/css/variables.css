@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #021e31;
+    --secondary-color: crimson;
+    --white-color: #f4f4f4;
+    --light-gray-color: rgb(199, 197, 197);
+    --heading-font: 'Montserrat', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+    --gap: 3rem;
+}
